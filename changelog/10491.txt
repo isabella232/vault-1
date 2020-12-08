@@ -1,0 +1,3 @@
+```release-note:improvement
+api/config/ui: Read operation returns now a slice of values instead of one single value
+```
