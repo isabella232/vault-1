@@ -1,3 +1,3 @@
 ```release-note:improvement
-api/sys/config/ui: Read operation returns now a slice of values instead of one single value
+api/sys/config/ui: Read operation returns now a slice of values (if multivalue is true) instead of one single value
 ```
